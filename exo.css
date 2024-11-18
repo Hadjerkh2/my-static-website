@@ -1,0 +1,76 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  
+  /* Heading 1 Styling */
+  h1 {
+    color: #2a6ebb;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Heading 2 Styling */
+  h2 {
+    color: #4a4a4a;
+    margin: 20px;
+    text-align: left;
+  }
+  
+  /* Paragraph Styling */
+  p {
+    font-size: 1.2em;
+    color: #555;
+    margin: 20px;
+    text-align: justify;
+  }
+  
+  /* Links Styling */
+  a {
+    color: #2a6ebb;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Image Styling */
+  img {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  /* Button Styling */
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #fff;
+    background-color: #2a6ebb;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #1b4a87;
+  }
+  
+  /* Footer Styling */
+  footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #2a6ebb;
+    color: #fff;
+  }
+  
